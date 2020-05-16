@@ -1,0 +1,3 @@
+ibm_watson
+textblob
+nltk
