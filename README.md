@@ -7,4 +7,10 @@ In this assignment using IBM TestToSpeech api we fetch text from audio file then
 - [NLTK](#NLTK)
 - [TextBlob](#TextBlob)
 
+##
+![Alt text](/ibm.png?raw=true "Trie")
+
+
+![Alt text](/bar.png?raw=true "Trie")
+
 ![Alt text](/cloud.png?raw=true "Trie")
