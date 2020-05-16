@@ -8,7 +8,7 @@ In this assignment using IBM TestToSpeech api we fetch text from audio file then
 - [TextBlob](#TextBlob)
 
 ##
-![Alt text](/ibm.png?raw=true "Trie")
+![Alt text](/IBM.png?raw=true "Trie")
 
 
 ![Alt text](/bar.png?raw=true "Trie")
